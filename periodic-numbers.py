@@ -1,3 +1,4 @@
+# First we will set up the functions for a number
 class Number:
   def __init__(self, number):
     self.number = number
